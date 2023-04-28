@@ -1,0 +1,61 @@
+#topbar
+{
+background-color:lightgrey;
+width:100%;
+height:10%;
+}
+#topbar ul
+{
+    float:right;
+    margin-top:50px;
+
+}
+#topbar ul li
+{
+    
+    display: inline;
+    margin-right:70px;
+    font-size:20;
+
+}
+#topbar ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+#apple1
+{
+    width:30%;
+    height:35px;
+    margin-top:10px;
+    float:left;
+}
+#apple2
+{
+    
+        width:30%;
+        height:350px;
+        margin-top:40px;
+        float:left; 
+}
+#apple3
+{
+    width:30%;
+    height:30px;
+    margin-top:40px;
+    float:right;
+}
+#apple4
+{
+    width:30%;
+    height:350px;
+    margin-top:40px;
+    float:right;
+}
+#apple5
+{
+    width:30%;
+    height:350px;
+    margin-top:20px;
+    float:right;
+}
