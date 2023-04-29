@@ -25,25 +25,23 @@ height:10%;
 }
 #apple1
 {
-    width:30%;
-    height:350px;
-    margin-top:20px;
+    width:2%;
+    height:30px;
     float:left;
+    margin-left: 20px;
 }
 #apple2
-{
-    
-        width:5%;
-        height:5px;
-        margin-top:10px;
+{   
+        width:2%;
+        height:10px;
+        margin-left:90px;
         float:left;
 
 }
 #apple3
 {
-    width:30%;
-    height:30px;
-    margin-top:10px;
+    width:2px;
+    height:2px;
     float:left;
     margin-left:50px;
 }
